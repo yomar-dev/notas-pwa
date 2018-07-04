@@ -66,6 +66,7 @@ Luego de crear el proyecto para poder agregar el **Service Worker** debemos hace
 
 **Instalar Angular Material:** `npm install --save @angular/material @angular/cdk` <br>
 **Instalar animaciones para Angular Material:** `npm install --save @angular/animations` <br>
+**Instalar Angular Fire2 y Firebase:** `npm install angularfire2 firebase --save` <br>
 
 
 ### Enlaces de interes:
