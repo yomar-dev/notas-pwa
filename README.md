@@ -64,3 +64,8 @@ Luego de crear el proyecto para poder agregar el **Service Worker** debemos hace
 ### Ejecutar script para mandar nuestra App a producción y leventar nuestro servidor.
 
 `npm run build:server` <br>
+
+
+### Enlaces de interes:
+
+[Web App Manifest Generator](https://app-manifest.firebaseapp.com/) <br>
