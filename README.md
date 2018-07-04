@@ -33,4 +33,11 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 Luego de crear el proyecto para poder agregar el **Service Worker** debemos hacerlo de la siguiente manera:
 `ng add @angular/pwa --project nombre-del-proyecto` <br><br>.
 
-**Correr nuestra app en modo de producción:** `ng build --prod`
+**Correr nuestra app en modo de producción:** `ng build --prod` <br>
+**Libreria para crear servidor:** `sudo npm install -g http-server` <br>
+
+
+### Crear un servidor para nuestra App:
+
+1) Ir al directorio **dist** (`cd dist/nombre-app`) <br>
+2) Ejecutar el comando `http-server` <br>
