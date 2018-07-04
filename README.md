@@ -41,3 +41,22 @@ Luego de crear el proyecto para poder agregar el **Service Worker** debemos hace
 
 1) Ir al directorio **dist** (`cd dist/nombre-app`) <br>
 2) Ejecutar el comando `http-server` <br>
+
+
+
+## Service Worker:
+
+-Son un archivo mas. <br>
+- Están escritos en JS. <br>
+- Funcionan como un proxy, es decir que interceptan las llamadas en red. Esto es muy importante para las PWA porque te permite mostrar información a tus usuarios sin necesidad de tener internet. <br>
+- Se detienen cuándo no están en uso. <br>
+- Solo funcionan sobre HTTPS. <br>
+- Sus métodos están basados en promesas.<br
+
+
+### Ventajas:
+
+**Confiabilidad:** Provee recursos estáticos, dinámicos y extensos desde caché. <br>
+**Performance:** Solamente hace llamados remotos cuando es necesario. <br>
+**Push notifications:** Notificaciones push para re-atraer a tus usuarios. <br>
+> Te permite crear tu propio sistema de caching.
