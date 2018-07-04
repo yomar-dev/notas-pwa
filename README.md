@@ -62,10 +62,13 @@ Luego de crear el proyecto para poder agregar el **Service Worker** debemos hace
 > Te permite crear tu propio sistema de caching.
 
 ### Ejecutar script para mandar nuestra App a producción y leventar nuestro servidor.
-
 `npm run build:server` <br>
+
+**Instalar Angular Material:** `npm install --save @angular/material @angular/cdk` <br>
+**Instalar animaciones para Angular Material:** `npm install --save @angular/animations` <br>
 
 
 ### Enlaces de interes:
 
 [Web App Manifest Generator](https://app-manifest.firebaseapp.com/) <br>
+[Documentación Angular Material](https://material.angular.io/) <br>
